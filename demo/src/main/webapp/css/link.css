@@ -1,0 +1,18 @@
+body {
+	font-family:Bookman Old Style;
+}
+
+a.linkactive {
+	color: #000000;
+    text-decoration: none;
+}
+
+/* unvisited link */
+a {
+    color: #696969;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000000;
+}
